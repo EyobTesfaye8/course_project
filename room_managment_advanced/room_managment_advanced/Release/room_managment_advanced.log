@@ -1,0 +1,27 @@
+﻿  Admins.cpp
+  dave.cpp
+  eyosi.cpp
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\sql.h(1,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  (compiling source file 'eyosi.cpp')
+  
+  fahmi.cpp
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\sql.h(1,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  (compiling source file 'fahmi.cpp')
+  
+  gech.cpp
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\sql.h(1,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  (compiling source file 'gech.cpp')
+  
+  main.cpp
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\sql.h(1,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  (compiling source file 'main.cpp')
+  
+  msql test.cpp
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\sql.h(1,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  (compiling source file 'msql%20test.cpp')
+  
+  mysql.cpp
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\mysql.cpp(1,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  sql.h
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\sql.h(1,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  user.cpp

@@ -1,0 +1,5 @@
+﻿  Admins.cpp
+  main.cpp
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\Admins.cpp(5,9): error C3646: 'username': unknown override specifier
+C:\Users\honor\Documents\__Sweng\vs\room_managment_advanced\room_managment_advanced\Admins.cpp(5,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
